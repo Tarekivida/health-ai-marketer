@@ -1,0 +1,46 @@
+# Scraped Product Info
+
+```json
+{
+  "Estradiol": [
+    {
+      "title": "Title not found",
+      "price": "29,69",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Title not found",
+      "price": "Price not found",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Title not found",
+      "price": "Price not found",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    }
+  ],
+  "Clonidine": [
+    {
+      "title": "Dextromethorphan Teva Solution Per Os 180ml",
+      "price": "6,19",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Title not found",
+      "price": "Price not found",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Title not found",
+      "price": "29,69",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    }
+  ]
+}
+```

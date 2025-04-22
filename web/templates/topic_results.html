@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results for {{ topic }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Results for {{ topic }}</h1>
+    {% if subdirs %}
+    <ul>
+        {% for subdir in subdirs %}
+        <li><a href="/results/{{ topic }}/{{ subdir }}">{{ subdir }}</a></li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No result directories found for {{ topic }}.</p>
+    {% endif %}
+    <a href="/">Back to Home</a>
+</body>
+</html>

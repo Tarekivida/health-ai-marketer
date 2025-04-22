@@ -1,0 +1,33 @@
+# Extracted Products
+
+```json
+{
+  "produits": [
+    {
+      "nom": "Vitamine C",
+      "catégorie": "Complément alimentaire"
+    },
+    {
+      "nom": "Vitamine E",
+      "catégorie": "Complément alimentaire"
+    },
+    {
+      "nom": "Zinc",
+      "catégorie": "Minéral"
+    },
+    {
+      "nom": "Iode",
+      "catégorie": "Minéral"
+    },
+    {
+      "nom": "Crème solaire",
+      "catégorie": "Produit de protection solaire"
+    }
+  ],
+  "solutions": [
+    "Suppléments alimentaires",
+    "Protection solaire",
+    "Traitement médical"
+  ]
+}
+```

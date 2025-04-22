@@ -1,0 +1,24 @@
+tasks:
+  - name: "Medical Article Writing"
+    agent: "pharmacist_expert"
+    description: "Rédige un article médical précis et scientifique."
+
+  - name: "Product Extraction"
+    agent: "product_extraction_agent"
+    description: "Analyse l’article et extrait les catégories de produits et ingrédients pertinents."
+
+  - name: "Product Research"
+    agent: "product_research_agent"
+    description: "Effectue des recherches pour trouver des compléments alimentaires adaptés."
+
+  - name: "Product Scraping"
+    agent: "product_scraper_agent"
+    description: "Récupère les descriptions détaillées des produits de Newpharma."
+
+  - name: "Marketing Adaptation"
+    agent: "marketing_content_specialist"
+    description: "Transforme l’article en un contenu marketing engageant."
+
+  - name: "Pharmacist Review"
+    agent: "pharmacist_reviewer"
+    description: "Vérifie l’exactitude scientifique et la conformité de l’article."

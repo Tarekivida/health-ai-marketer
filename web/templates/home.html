@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Article Generator</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Health Article Generator</h1>
+    <form method="post" action="/generate">
+        <label for="topic">Enter Health Topic:</label>
+        <input type="text" id="topic" name="topic" required>
+        <button type="submit">Generate</button>
+    </form>
+    {% if recent_topics %}
+    <h2>Past Generated Articles</h2>
+    <ul>
+        {% for topic in recent_topics %}
+        <li><a href="/results/{{ topic }}">{{ topic }}</a></li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>

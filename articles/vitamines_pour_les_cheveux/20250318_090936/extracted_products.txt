@@ -1,0 +1,19 @@
+# Extracted Products
+
+```json
+{
+  "produits": [
+    {
+      "nom": "Suppléments nutritionnels"
+    },
+    {
+      "nom": "Produits capillaires appropriés"
+    }
+  ],
+  "solutions": [
+    "Compléter le régime alimentaire",
+    "Gérer le stress",
+    "Soins capillaires réguliers"
+  ]
+}
+```

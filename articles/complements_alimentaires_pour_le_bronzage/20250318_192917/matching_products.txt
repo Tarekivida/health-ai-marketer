@@ -1,0 +1,72 @@
+# Matching Products
+
+```json
+{
+  "Vitamine C": [
+    {
+      "name": "Biocyte Vitamine C Liposomale 30 Gélules",
+      "url": "https://www.newpharma.be/pharmacie/biocyte/635611/biocyte-vitamine-c-liposomale-30-gelules.html"
+    },
+    {
+      "name": "Forté Pharma Vitamine C 1000 Comprimés 60 | Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/forte-pharma/845773/forte-pharma-vitamine-c-1000-comprimes-60.html"
+    },
+    {
+      "name": "Revitalose C 1000 Solution Buvable Vitamine C 14 Ampoules",
+      "url": "https://www.newpharma.be/pharmacie/revitalose/19966/revitalose-c-1000-solution-buvable-vitamine-c-14-ampoules.html"
+    }
+  ],
+  "Vitamine E": [
+    {
+      "name": "Biover Vitamine E 100 Capsules",
+      "url": "https://www.newpharma.be/pharmacie/biover/63412/biover-vitamine-e-100-capsules.html"
+    },
+    {
+      "name": "Mannavital Vitamine E Platinum 60 Capsules",
+      "url": "https://www.newpharma.be/pharmacie/mannavital/623924/mannavital-vitamine-e-platinum-60-capsules.html"
+    },
+    {
+      "name": "Solgar Liquid Vitamine E Complex Gouttes Flacon 59,2ml",
+      "url": "https://www.newpharma.be/pharmacie/solgar/508875/solgar-liquid-vitamine-e-complex-gouttes-flacon-59-2ml.html"
+    }
+  ],
+  "Zinc": [
+    {
+      "name": "Pure Zinc 22,5mg Bisglycinate de zinc Cheveux peau yeux ...",
+      "url": "https://www.newpharma.be/pharmacie/pure/519388/pure-zinc-22-5mg-bisglycinate-de-zinc-cheveux-peau-yeux-ongles-60-comprimes.html"
+    },
+    {
+      "name": "Forté Pharma Zinc 225mg Comprimés 60",
+      "url": "https://www.newpharma.be/pharmacie/forte-pharma/835104/forte-pharma-zinc-225mg-comprimes-60.html"
+    },
+    {
+      "name": "Vista-Zinc Comprimés Fondants Sublinguaux Avec ...",
+      "url": "https://www.newpharma.be/pharmacie/vista/845549/vista-zinc-comprimes-fondants-sublinguaux-avec-zinc-plus-vitamine-d3-promo-50-plus-10-pieces.html"
+    }
+  ],
+  "Iode": [
+    {
+      "name": "Energetica Natura Biotics Iode Liquide Gouttes 60ml",
+      "url": "https://www.newpharma.be/pharmacie/energetica-natura/244822/energetica-natura-biotics-iode-liquide-gouttes-60ml.html"
+    },
+    {
+      "name": "Nutergia Oligomax Iode Flacon 150ml",
+      "url": "https://www.newpharma.be/pharmacie/nutergia/519748/nutergia-oligomax-iode-flacon-150ml.html"
+    },
+    {
+      "name": "Mannavital Iode Platinum Complément Alimentaire ...",
+      "url": "https://www.newpharma.be/pharmacie/mannavital/832892/mannavital-iode-platinum-complement-alimentaire-metabolisme-et-fonction-cognitive-90-v-capsules.html"
+    }
+  ],
+  "Crème solaire": [
+    {
+      "name": "Diclofenac Patch EG 140 mg emplâtre médicamenteux",
+      "url": "https://www.newpharma.be/pharmacie/product/pdf/640888/"
+    },
+    {
+      "name": "La Roche-Posay Anthelios UVMUNE 400 Crème Solaire Fluide Invisible ...",
+      "url": "https://www.newpharma.be/pharmacie/la-roche-posay/838913/la-roche-posay-anthelios-uvmune-400-creme-solaire-fluide-invisible-visage-ip50-plus-sans-parfum-50ml.html"
+    }
+  ]
+}
+```

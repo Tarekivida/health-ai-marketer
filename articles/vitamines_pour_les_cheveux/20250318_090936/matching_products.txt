@@ -1,0 +1,34 @@
+# Matching Products
+
+```json
+{
+  "Suppléments nutritionnels": [
+    {
+      "name": "Vitasonar MoodRise Complément Alimentaire 60 V-Caps",
+      "url": "https://www.newpharma.be/pharmacie/vitasonar/667725/vitasonar-moodrise-complement-alimentaire-60-v-caps.html"
+    },
+    {
+      "name": "ixX Pharma B-ixX Complexe De Vitamines B 90 Comprimés",
+      "url": "https://www.newpharma.be/pharmacie/ixx-pharma/839845/ixx-pharma-b-ixx-complexe-de-vitamines-b-90-comprimes.html"
+    },
+    {
+      "name": "Boiron B-fer Forte Complément Alimentaire 90 Capsules",
+      "url": "https://www.newpharma.be/pharmacie/boiron/866796/boiron-b-fer-forte-complement-alimentaire-90-capsules.html"
+    }
+  ],
+  "Produits capillaires appropriés": [
+    {
+      "name": "3 Chênes Color Et Soin Coloration Permanente 9B Blond ...",
+      "url": "https://www.newpharma.be/pharmacie/3-chenes/857877/3-chenes-color-et-soin-coloration-permanente-9b-blond-clair-nacre-1-kit.html"
+    },
+    {
+      "name": "Les 3 Chênes Color & Soin Coloration Permanente Aux ...",
+      "url": "https://www.newpharma.be/pharmacie/3-chenes/840195/les-3-chenes-color-soin-coloration-permanente-aux-extraits-vegetaux-couleur-1n-noir-ebene-1-kit.html"
+    },
+    {
+      "name": "Eugène Color Color&Glow Coloration Ton Sur Ton N°20 ...",
+      "url": "https://www.newpharma.be/pharmacie/eugene-color/870111/eugene-color-color-glow-coloration-ton-sur-ton-n-20-chatain-fonce-1-kit.html"
+    }
+  ]
+}
+```

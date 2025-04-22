@@ -1,0 +1,34 @@
+# Matching Products
+
+```json
+{
+  "Estradiol": [
+    {
+      "name": "Pharmacie en Ligne Belgique | Prix Bas & Livraison Gratuite dès 39",
+      "url": "https://www.newpharma.be/pharmacie/"
+    },
+    {
+      "name": "Achetez en Ligne à Prix Bas - Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/products/"
+    },
+    {
+      "name": "Apotheek Online - Pharmacie en Ligne | Newpharma",
+      "url": "https://www.newpharma.be/"
+    }
+  ],
+  "Clonidine": [
+    {
+      "name": "Dextromethorphan Teva Solution Per Os 180ml",
+      "url": "https://www.newpharma.be/pharmacie/teva/41834/dextromethorphan-teva-solution-per-os-180ml.html"
+    },
+    {
+      "name": "Apotheek Online - Pharmacie en Ligne | Newpharma",
+      "url": "https://www.newpharma.be/"
+    },
+    {
+      "name": "Prix Bas & Livraison Gratuite dès 39 - Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/"
+    }
+  ]
+}
+```

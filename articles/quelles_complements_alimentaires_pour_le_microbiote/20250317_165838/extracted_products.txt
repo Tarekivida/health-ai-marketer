@@ -1,0 +1,24 @@
+# Extracted Products
+
+```json
+{
+  "produits": [
+    {
+      "nom": "probiotiques",
+      "catégorie": "compléments alimentaires"
+    },
+    {
+      "nom": "prébiotiques",
+      "catégorie": "compléments alimentaires"
+    },
+    {
+      "nom": "polypénols",
+      "catégorie": "compléments alimentaires"
+    }
+  ],
+  "solutions": [
+    "alimentation équilibrée",
+    "adoption d'une vie saine"
+  ]
+}
+```

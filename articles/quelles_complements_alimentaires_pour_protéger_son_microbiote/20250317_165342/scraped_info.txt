@@ -1,0 +1,46 @@
+# Scraped Product Info
+
+```json
+{
+  "Probiotiques": [
+    {
+      "title": "Lucovitaal Pre- Et Probiotiques 8 Souches De Bactéries 30 Gélules",
+      "price": "19,00",
+      "description": "Description not available",
+      "reviews": "4,4\n/\n5"
+    },
+    {
+      "title": "Inovance Probiovance I 10 Complément Alimentaire Flore Intestinale 30 Capsules",
+      "price": "26,29",
+      "description": "Description not available",
+      "reviews": "4,8\n/\n5"
+    },
+    {
+      "title": "Vivomixx 450 Probiotique 450 Milliards 10 Sachets",
+      "price": "22,75",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    }
+  ],
+  "Prébiotiques": [
+    {
+      "title": "PiLeJe Biofilm Prébiotiques 14 Sachets",
+      "price": "13,99",
+      "description": "Description not available",
+      "reviews": "4,7\n/\n5"
+    },
+    {
+      "title": "Lucovitaal Bioticomel Pre & Probiotica 30 Capsules",
+      "price": "19,89",
+      "description": "Description not available",
+      "reviews": "4,4\n/\n5"
+    },
+    {
+      "title": "PharmaNutrics Proflor Plus Complément Alimentaire 30 Gélules",
+      "price": "36,19",
+      "description": "Description not available",
+      "reviews": "4,5\n/\n5"
+    }
+  ]
+}
+```

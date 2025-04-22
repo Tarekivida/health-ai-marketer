@@ -1,0 +1,48 @@
+# Matching Products
+
+```json
+{
+  "probiotiques": [
+    {
+      "name": "Lucovitaal Pre- Et Probiotiques 8 Souches De Bactéries 30 ...",
+      "url": "https://www.newpharma.be/pharmacie/lucovitaal/771835/lucovitaal-pre-et-probiotiques-8-souches-de-bacteries-30-gelules.html"
+    },
+    {
+      "name": "Inovance Probiovance I 10 Complément Alimentaire Flore ... - Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/inovance/852440/inovance-probiovance-i-10-complement-alimentaire-flore-intestinale-30-capsules.html"
+    },
+    {
+      "name": "Vivomixx 450 Probiotique 450 Milliards 10 Sachets | Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/vivomixx/838133/vivomixx-450-probiotique-450-milliards-10-sachets.html"
+    }
+  ],
+  "prébiotiques": [
+    {
+      "name": "Lucovitaal Bioticomel Pre & Probiotica 30 Capsules - Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/lucovitaal/854503/lucovitaal-bioticomel-pre-probiotica-30-capsules.html"
+    },
+    {
+      "name": "PharmaNutrics Proflor Plus Complément Alimentaire 30 Gélules",
+      "url": "https://www.newpharma.be/pharmacie/pharmanutrics/496429/pharmanutrics-proflor-plus-complement-alimentaire-30-gelules.html"
+    },
+    {
+      "name": "Vivomixx 450 Probiotique 450 Milliards 10 Sachets | Newpharma",
+      "url": "https://www.newpharma.be/pharmacie/vivomixx/838133/vivomixx-450-probiotique-450-milliards-10-sachets.html"
+    }
+  ],
+  "polypénols": [
+    {
+      "name": "Novexpert Poly Sérum Booster Aux Polyphénols De Thé ...",
+      "url": "https://www.newpharma.be/pharmacie/novexpert/850278/novexpert-poly-serum-booster-aux-polyphenols-de-the-vert-30ml.html"
+    },
+    {
+      "name": "Pomecure Complément Alimentaire 30 Comprimés",
+      "url": "https://www.newpharma.be/pharmacie/melphar/496360/pomecure-complement-alimentaire-30-comprimes.html"
+    },
+    {
+      "name": "Dr. Jacob's GranaProsan Jus De Grenade 100 Gélules",
+      "url": "https://www.newpharma.be/pharmacie/dr-jacob-s/249261/dr-jacob-s-granaprosan-jus-de-grenade-100-gelules.html"
+    }
+  ]
+}
+```

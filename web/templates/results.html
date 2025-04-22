@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results for {{ topic }} at {{ timestamp }}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Results for {{ topic }} at {{ timestamp }}</h1>
+    {% if files %}
+    <ul>
+        {% for file in files %}
+        <li><a href="/download/{{ topic }}/{{ timestamp }}/{{ file }}">{{ file }}</a></li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No articles found for {{ topic }} at {{ timestamp }}.</p>
+    {% endif %}
+    <a href="/results/{{ topic }}">Back to Topic Results</a>
+</body>
+</html>

@@ -1,0 +1,26 @@
+# Extracted Products
+
+```json
+{
+  "produits": [
+    {
+      "nom": "Estradiol",
+      "catégorie": "Hormone"
+    },
+    {
+      "nom": "Clonidine",
+      "catégorie": "Médicament"
+    }
+  ],
+  "solutions": [
+    "Hormonothérapie",
+    "Modérer la consommation d'alcool",
+    "Faire de l'exercice régulier",
+    "Eviter le café et les boissons chaudes",
+    "Sérotonine-noradrenaline reuptake inhibitor (SSRI)",
+    "Consommation équilibrée",
+    "Hydratation adéquate",
+    "Soulager l'anxiété"
+  ]
+}
+```

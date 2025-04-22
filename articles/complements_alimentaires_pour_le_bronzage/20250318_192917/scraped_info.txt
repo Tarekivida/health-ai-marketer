@@ -1,0 +1,100 @@
+# Scraped Product Info
+
+```json
+{
+  "Vitamine C": [
+    {
+      "title": "Biocyte Vitamine C Liposomale 30 Gélules",
+      "price": "16,99",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    },
+    {
+      "title": "Forté Pharma Vitamine C 1000 Comprimés 60",
+      "price": "13,95",
+      "description": "Description not available",
+      "reviews": "4,7\n/\n5"
+    },
+    {
+      "title": "Revitalose C 1000 Solution Buvable Vitamine C 14 Ampoules",
+      "price": "11,65",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    }
+  ],
+  "Vitamine E": [
+    {
+      "title": "Biover Vitamine E 100 Capsules",
+      "price": "14,19",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    },
+    {
+      "title": "Mannavital Vitamine E Platinum 60 Capsules",
+      "price": "22,45",
+      "description": "Description not available",
+      "reviews": "4,4\n/\n5"
+    },
+    {
+      "title": "Solgar Liquid Vitamine E Complex Gouttes Flacon 59,2ml",
+      "price": "21,95",
+      "description": "Description not available",
+      "reviews": "4,9\n/\n5"
+    }
+  ],
+  "Zinc": [
+    {
+      "title": "Pure Zinc 22,5mg Bisglycinate de zinc Cheveux peau yeux ongles 60 comprimés",
+      "price": "7,65",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    },
+    {
+      "title": "Forté Pharma Zinc 225mg Comprimés 60",
+      "price": "8,29",
+      "description": "Description not available",
+      "reviews": "4,7\n/\n5"
+    },
+    {
+      "title": "Vista-Zinc Comprimés Fondants Sublinguaux Avec Zinc + Vitamine D3 Promo 50+10 Pièces",
+      "price": "9,69",
+      "description": "Description not available",
+      "reviews": "4,8\n/\n5"
+    }
+  ],
+  "Iode": [
+    {
+      "title": "Energetica Natura Biotics Iode Liquide Gouttes 60ml",
+      "price": "22,45",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    },
+    {
+      "title": "Nutergia Oligomax Iode Flacon 150ml",
+      "price": "13,99",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Mannavital Iode Platinum Complément Alimentaire Métabolisme Et Fonction Cognitive 90 V-Capsules",
+      "price": "9,55",
+      "description": "Description not available",
+      "reviews": "4,9\n/\n5"
+    }
+  ],
+  "Crème solaire": [
+    {
+      "title": "Title not found",
+      "price": "Price not found",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "La Roche-Posay Anthelios UVMUNE 400 Crème Solaire Fluide Invisible Visage IP50+ Sans Parfum 50ml",
+      "price": "15,49",
+      "description": "Description not available",
+      "reviews": "4,7\n/\n5"
+    }
+  ]
+}
+```

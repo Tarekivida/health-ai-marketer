@@ -1,0 +1,66 @@
+# Scraped Product Info
+
+```json
+{
+  "probiotiques": [
+    {
+      "title": "Lucovitaal Pre- Et Probiotiques 8 Souches De Bactéries 30 Gélules",
+      "price": "19,00",
+      "description": "Description not available",
+      "reviews": "4,4\n/\n5"
+    },
+    {
+      "title": "Inovance Probiovance I 10 Complément Alimentaire Flore Intestinale 30 Capsules",
+      "price": "26,29",
+      "description": "Description not available",
+      "reviews": "4,8\n/\n5"
+    },
+    {
+      "title": "Vivomixx 450 Probiotique 450 Milliards 10 Sachets",
+      "price": "22,75",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    }
+  ],
+  "prébiotiques": [
+    {
+      "title": "Lucovitaal Bioticomel Pre & Probiotica 30 Capsules",
+      "price": "19,89",
+      "description": "Description not available",
+      "reviews": "4,4\n/\n5"
+    },
+    {
+      "title": "PharmaNutrics Proflor Plus Complément Alimentaire 30 Gélules",
+      "price": "36,19",
+      "description": "Description not available",
+      "reviews": "4,5\n/\n5"
+    },
+    {
+      "title": "Vivomixx 450 Probiotique 450 Milliards 10 Sachets",
+      "price": "22,75",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    }
+  ],
+  "polypénols": [
+    {
+      "title": "Novexpert Poly Sérum Booster Aux Polyphénols De Thé Vert 30ml",
+      "price": "49,49",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Pomecure Complément Alimentaire 30 Comprimés",
+      "price": "15,19",
+      "description": "Description not available",
+      "reviews": "4,5\n/\n5"
+    },
+    {
+      "title": "Dr. Jacob's GranaProsan Jus De Grenade 100 Gélules",
+      "price": "43,45",
+      "description": "Description not available",
+      "reviews": "4,6\n/\n5"
+    }
+  ]
+}
+```

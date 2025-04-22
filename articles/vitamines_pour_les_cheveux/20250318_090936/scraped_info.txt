@@ -1,0 +1,46 @@
+# Scraped Product Info
+
+```json
+{
+  "Suppléments nutritionnels": [
+    {
+      "title": "Vitasonar MoodRise Complément Alimentaire 60 V-Caps",
+      "price": "29,99",
+      "description": "Description not available",
+      "reviews": "4,8\n/\n5"
+    },
+    {
+      "title": "ixX Pharma B-ixX Complexe De Vitamines B 90 Comprimés",
+      "price": "24,65",
+      "description": "Description not available",
+      "reviews": "5,0\n/\n5"
+    },
+    {
+      "title": "Boiron B-fer Forte Complément Alimentaire 90 Capsules",
+      "price": "32,49",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    }
+  ],
+  "Produits capillaires appropriés": [
+    {
+      "title": "3 Chênes Color Et Soin Coloration Permanente 9B Blond Clair Nacré 1 Kit",
+      "price": "9,99",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Les 3 Chênes Color & Soin Coloration Permanente Aux Extraits Végétaux Couleur 1N Noir Ebène 1 Kit",
+      "price": "9,99",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    },
+    {
+      "title": "Eugène Color Color&Glow Coloration Ton Sur Ton N°20 Châtain Foncé 1 Kit",
+      "price": "6,85",
+      "description": "Description not available",
+      "reviews": "Reviews not found"
+    }
+  ]
+}
+```

@@ -1,0 +1,17 @@
+# Extracted Products
+
+```json
+{
+  "produits": [
+    {
+      "nom": "Probiotiques",
+      "catégorie": "Compléments alimentaires"
+    },
+    {
+      "nom": "Prébiotiques",
+      "catégorie": "Compléments alimentaires"
+    }
+  ],
+  "solutions": []
+}
+```
