@@ -108,6 +108,12 @@ uvicorn web.app:app --reload
 ```
 Open your browser at `http://localhost:8000/` to access the interface for generating and viewing articles.
 
+Alternatively, you can launch the web interface directly with:
+```bash
+python3 web/app.py
+```
+This will start the server at `http://127.0.0.1:8000` without hot-reload.
+
 ## Project Structure
 
 ```
